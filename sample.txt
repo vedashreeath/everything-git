@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 sample doc yeahh
+>>>>>>> cdca37492a4ed473b7b15f8902eefba77c55f0c9
