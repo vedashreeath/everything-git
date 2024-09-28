@@ -13,7 +13,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout code from GitHub
-                git 'https://github.com/<your-username>/veda.git'
+                git 'https://github.com/vedashreeath/everything-git.git'
             }
         }
 
