@@ -3,8 +3,8 @@ pipeline {
 
     environment {
         // AWS configuration
-        AWS_REGION = '<your-region>'
-        AWS_ACCOUNT_ID = '<your-account-id>'
+        AWS_REGION = 'us-east-1'
+        AWS_ACCOUNT_ID = '047719656762'
         ECR_REPO = 'veda-app'
         IMAGE_TAG = 'latest'
     }
